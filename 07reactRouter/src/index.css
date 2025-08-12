@@ -1,0 +1,3 @@
+@tailwind base;        /* Includes Tailwind's default styles and CSS resets */
+@tailwind components;  /* Includes pre-built component classes */
+@tailwind utilities; 
